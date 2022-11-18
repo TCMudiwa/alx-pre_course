@@ -1,0 +1,1 @@
+Directory for first git task in ALX pre course tasks.
